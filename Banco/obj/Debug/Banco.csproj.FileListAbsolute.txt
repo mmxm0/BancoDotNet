@@ -1,0 +1,12 @@
+c:\users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+c:\users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.Form1.resources
+c:\users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+c:\users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+c:\users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.FormCadastroConta.resources
+C:\Users\marta.maria.x.melo\source\repos\Banco\Banco\obj\Debug\Banco.FormRelatorios.resources
